@@ -1,0 +1,51 @@
+.container1 {
+    width: 300px;
+    height: 55px;
+    border: 3px  rgb(219, 57, 57);
+    display:flex;
+    /* 끝을 둥글게 할 수 있음 */
+    border-radius: 5px;
+    justify-content: space-around;
+    align-content: center;
+    align-items:center;
+    justify-content: flex-start;
+
+  }
+.container2 {
+    width: 300px;
+    height: 55px;
+    border: 3px  rgb(219, 57, 57);
+    display:flex;
+    /* 끝을 둥글게 할 수 있음 */
+    border-radius: 5px;
+    justify-content: space-around;
+    align-content: center;
+    align-items:center;
+    justify-content: center;
+
+
+
+  }
+.container3 {
+    width: 300px;
+    height: 55px;
+    border: 3px  rgb(219, 57, 57);
+    display:flex;
+    /* 끝을 둥글게 할 수 있음 */
+    border-radius: 5px;
+    justify-content: space-around;
+    align-content: center;
+    align-items:center;
+    justify-content: flex-end;
+  }
+
+  .box {
+    width: 50px;
+    height: 50px;
+    margin-right: 5px;
+    background-color: rgb(219, 57, 57);
+
+    border-radius: 5px;
+
+   
+  }
